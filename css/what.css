@@ -8,4 +8,10 @@ p{
 
 button{
 	float:right;
+	color: blue;
+	text-shadow: currentColor;
+}
+
+#rightdiv {
+	text-align: center;
 }
