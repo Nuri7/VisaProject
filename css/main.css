@@ -32,3 +32,7 @@ footer {
 section {
 	margin: 0px 20px;
 }
+
+#logo {
+	text-decoration: none;
+}
